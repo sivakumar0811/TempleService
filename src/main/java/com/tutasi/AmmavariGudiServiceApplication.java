@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AmmavariGudiServiceApplication {
 
 	public static void main(String[] args) {
+		// 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
 		SpringApplication.run(AmmavariGudiServiceApplication.class, args);
 	}
 
