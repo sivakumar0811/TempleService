@@ -32,6 +32,7 @@ public class Sponsordataservice {
 	@Async
 	public SponsorData addSponsorData(SponsorData sponsorData) {
 		logger.info("Data Successfully Added :: " +sponsorData);
+		logger.info("Data Successfully Added :: " +sponsorData);
 		return sponsorRepository.save(sponsorData);
 	}
 
